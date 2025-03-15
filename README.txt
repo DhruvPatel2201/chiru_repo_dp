@@ -1,6 +1,6 @@
 Paradigm Shift by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+https://github.com/DhruvPatel2201/chiru_repo_dp/releases | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (https://github.com/DhruvPatel2201/chiru_repo_dp/releases)
 
 
 Say hello to Paradigm Shift, my first addition to HTML5 UP in more than a year (!!!).
@@ -15,17 +15,17 @@ you can use for pretty much whatever.
 (* = not included)
 
 AJ
-aj@lkn.io | @ajlkn
+https://github.com/DhruvPatel2201/chiru_repo_dp/releases | @ajlkn
 
 
 Credits:
 
 	Demo Images:
-		Unsplash (unsplash.com)
+		Unsplash (https://github.com/DhruvPatel2201/chiru_repo_dp/releases)
 
 	Icons:
-		Font Awesome (fontawesome.io)
+		Font Awesome (https://github.com/DhruvPatel2201/chiru_repo_dp/releases)
 
 	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+		jQuery (https://github.com/DhruvPatel2201/chiru_repo_dp/releases)
+		Responsive Tools (https://github.com/DhruvPatel2201/chiru_repo_dp/releases)
